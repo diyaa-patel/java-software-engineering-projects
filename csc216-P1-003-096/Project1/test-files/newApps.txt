@@ -1,0 +1,5 @@
+*1,Review,New,Application summary,null,false,
+-[Review] Note 1
+*14,Waitlist,New,Application summary,null,false,ReviewCompleted
+-[Review] Note 1
+-[Waitlist] Note 2

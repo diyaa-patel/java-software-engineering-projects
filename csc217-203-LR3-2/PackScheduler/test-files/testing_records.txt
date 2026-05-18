@@ -1,0 +1,1 @@
+CSC112,computer science,007,1,pmjoshi,10,MW,1630,1700

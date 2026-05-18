@@ -1,0 +1,6 @@
+*15,Closed,Old,Application summary,reviewer,true,OfferCompleted
+-[Review] Note 1
+-[Interview] Note 2
+-[RefCheck] Note 3
+-[Offer] Note 4
+-[Closed] Note 6

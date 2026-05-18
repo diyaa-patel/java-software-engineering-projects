@@ -1,0 +1,2 @@
+Create a String object and read the whole file into the String object
+ line by line

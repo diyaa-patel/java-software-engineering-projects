@@ -1,0 +1,4 @@
+John,Smith,jsmith,jsmith@ncsu.edu,hashedpassword,2
+Jane,Doe,jdoe,jdoe@ncsu.edu,hashedpassword,abc
+Bob,Wilson,bwilson,bwilson@ncsu.edu,hashedpassword,-1
+Alice,Johnson,ajohnson,ajohnson@ncsu.edu,hashedpassword,2
